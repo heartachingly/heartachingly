@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yuki and I'm a full stack skid and from Tokyo</h2>
+<h2 align="left">Hai 👋! I'm Yuki and I'm a (un)professional full stack skid</h2>
 
 ###
 
