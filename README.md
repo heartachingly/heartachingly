@@ -1,4 +1,4 @@
-<h2 align="left">Hai 👋! I'm Yuki and I'm a Digital Forensic & Full Stack Skid :3
+<h2 align="left">Hai 👋! I'm Yuki and I'm a Digital Forensic :3
 
 ###
 
